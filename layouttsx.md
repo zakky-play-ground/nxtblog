@@ -1,5 +1,5 @@
 
-The code you've provided appears to be a TypeScript file named `page.tsx`, which is likely intended for use in a Next.js application. Let me explain each part of the code:
+The code you've provided appears to be a TypeScript file named `layout.tsx`, which is likely intended for use in a Next.js application. Let me explain each part of the code:
 
 1. Import Statements:
    ```javascript
